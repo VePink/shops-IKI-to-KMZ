@@ -1,7 +1,7 @@
 # IKI-shops-geolocator
 Tool for getting geographic locations of "IKI" shops from official website and saving dataset as KML file for later use in variuos geospatial analysis software.
 
-<img src="/images/thumbnail.png" width="500"/>
+<img src="/images/thumbnail.webp" width="500"/>
 
 Data source - official IKI website: https://iki.lt/iki-parduotuviu-tinklas/
 
